@@ -23,3 +23,4 @@ This project replicates the classic Flappy Bird gameplay where the player contro
 - AWT (for graphics and event handling)
 
 ---
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2735dfe9-6e12-47ca-93b7-01a029be33b9" />
